@@ -7,4 +7,4 @@
 3. 第三回：ギリシア美術とローマ美術（作成中）
 4. 第n回：作成中
 
-[発表用Discordサーバー（途中参加もOKです！）](https://discord.gg/UjTRxWjk)
+[発表用Discordサーバー（途中参加もOKです！）](https://discord.gg/YtEBb8YUps)
