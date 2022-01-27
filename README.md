@@ -1,6 +1,6 @@
 # 西洋美術史ゼミ
 
-こんにちは、あまずんと申します。西洋美術史を学ぶために自主ゼミを運営しようと考えています。ここはその資料を置く場所です。<br>
+こんにちは、あまずんと申します。西洋美術史を学ぶために自主ゼミを運営しています。ここはその資料を置く場所です。<br>
 
 1. [第一回：イントロダクション.pdf](https://github.com/amazuun/Art_of_Europe/files/7860018/default.pdf)
 2. [第二回：原始美術と古代オリエント美術.pdf](https://github.com/amazuun/Art_of_Europe/files/7939540/default.pdf)
