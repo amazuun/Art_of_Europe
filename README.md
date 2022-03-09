@@ -8,6 +8,7 @@
 4. [第三回補足資料（大絵画については後日修正します）.pdf](https://github.com/amazuun/Art_of_Europe/files/8004019/default.pdf)
 5. [第四回：エルトリア美術とローマ美術、初期キリスト教美術.pdf](https://github.com/amazuun/Art_of_Europe/files/8030779/default.pdf)
 6. [第四回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8030781/default.pdf)
-7. 第n回：作成中<br><br>
+7. [第五回：ビザンティン美術と初期中世美術.pdf](https://github.com/amazuun/Art_of_Europe/files/8212019/default.pdf)
+8. [第五回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8212023/default.pdf)
+9. 第n回：作成中<br><br>
 [発表用Discordサーバー（途中参加もOKです！）](https://discord.gg/YtEBb8YUps)<br>
-[開発日誌的な……](https://unique-fuschia-0d1.notion.site/1d3e94d0c1024df8b13db556b7de5139?v=d6d0b097496040d3a457dde38b88a6f0)
