@@ -10,7 +10,7 @@
 5. [第四回：エルトリア美術とローマ美術、初期キリスト教美術.pdf](https://github.com/amazuun/Art_of_Europe/files/8030779/default.pdf)
 6. [第四回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8030781/default.pdf)
 7. [第五回：中世I（ビザンティン美術と初期中世美術）.pdf](https://github.com/amazuun/Art_of_Europe/files/8226919/default.pdf)
-8. [第五回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8212023/default.pdf)
+8. [第五回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8212023/default.pdf)<br>
 9.[第六回：中世II（ロマネスク美術とゴシック美術）.pdf](https://github.com/amazuun/Art_of_Europe/files/8311562/Western_Art_History_6.pdf)
 10. [第六回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8311181/Western_Art_History_6_sup.pdf)
 11. [第七回：イタリア初期ルネサンス美術.pdf](https://github.com/amazuun/Art_of_Europe/files/8339166/Western_Art_History_7.pdf)
