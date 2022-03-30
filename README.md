@@ -15,6 +15,9 @@
 10. [第六回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8311181/Western_Art_History_6_sup.pdf)
 11. [第七回：イタリア初期ルネサンス美術.pdf](https://github.com/amazuun/Art_of_Europe/files/8339166/Western_Art_History_7.pdf)
 12. [第七回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8339171/Western_Art_History_7_sup.pdf)
+13. [第八回：イタリア盛期ルネサンス美術と15世紀の北方美術.pdf](https://github.com/amazuun/Art_of_Europe/files/8377914/Western_Art_History_8.pdf)
+14. [第八回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8377919/Western_Art_History_8_sup.pdf)
+
 
 
 
