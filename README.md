@@ -19,6 +19,10 @@
 15. [第八回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8377919/Western_Art_History_8_sup.pdf)
 16. [第九回：北方ルネサンス美術.pdf](https://github.com/amazuun/Art_of_Europe/files/8442825/Western_Art_History_9.pdf)
 17. [第九回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8442828/Western_Art_History_9_sup.pdf)
+18. [第十回：バロック美術.pdf](https://github.com/amazuun/Art_of_Europe/files/8532096/Western_Art_History_10.pdf)
+19. [第十回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8532101/Western_Art_History_10_sup.pdf)
+
+
 
 
 
