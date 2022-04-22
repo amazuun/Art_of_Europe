@@ -30,4 +30,4 @@
 
 10. 第n回：作成中<br><br>
 [発表用Discordサーバー（途中参加もOKです！）](https://discord.gg/YtEBb8YUps)<br><br>
-[DocsWell（スライド共有サイトです。スライドのみ読む場合はこちらがおすすめです。）](https://www.docswell.com/user/amazuun)
+[Docswell（スライド共有サイトです。スライドのみ読む場合はこちらがおすすめです。）](https://www.docswell.com/user/amazuun)
