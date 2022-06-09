@@ -26,6 +26,8 @@
 22. [第十一回：バロック美術・ロココ美術.pdf](https://github.com/amazuun/Art_of_Europe/files/8618122/Western_Art_History_11.pdf)
 23. [第十一回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8618123/Western_Art_History_11_sup.pdf)
 24. [第十二回：新古典主義美術.pdf](https://github.com/amazuun/Art_of_Europe/files/8785203/Western_Art_History_12.pdf)
+25. [西洋美術史ゼミまとめ１.pdf](https://github.com/amazuun/Art_of_Europe/files/8872572/Western_Art_History_matome1.pdf)
+
 
 
 
