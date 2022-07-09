@@ -1,7 +1,7 @@
 # 西洋美術史ゼミ
 
 こんにちは。あまずんと申します。西洋美術史を学ぶために自主ゼミを運営しています。ここはその資料を置く場所です。おそらくWestern_Art_Historyの方が正しいです。<br>
-高階秀爾「増補新装 カラー版 西洋美術史」と秋山聰・田中正之「西洋美術史　美術出版ライブラリー 歴史編」、鶴間和幸「よくわかる世界史(マイベスト)」を主に参考にしており、他に参考にした資料は補足資料に記載しています。（複数のスライドで参考にした場合、古い方の補足資料に書いています。学問的に誠実ではないのかもしれませんがご了承ください。）
+高階秀爾「増補新装 カラー版 西洋美術史」と秋山聰・田中正之「西洋美術史　美術出版ライブラリー 歴史編」、宮下 規久朗「カラー版 1時間でわかる西洋美術史」、鶴間和幸「よくわかる世界史(マイベスト)」を主に参考にしており、他に参考にした資料は補足資料に記載しています。（複数のスライドで参考にした場合、古い方の補足資料に書いています。学問的に誠実ではないのかもしれませんがご了承ください。）
 
 1. [第一回：イントロダクション.pdf](https://github.com/amazuun/Art_of_Europe/files/7860018/default.pdf)
 2. [第二回：原始美術と古代オリエント美術.pdf](https://github.com/amazuun/Art_of_Europe/files/7939540/default.pdf)
@@ -30,7 +30,8 @@
 26. [第十三回：ロマン主義と写実主義.pdf](https://github.com/amazuun/Art_of_Europe/files/8880536/Western_Art_History_13.pdf)
 27. [第十三回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8880538/Western_Art_History_13_sup.pdf)
 28. [第十四回：印象派.pdf](https://github.com/amazuun/Art_of_Europe/files/8986509/Western_Art_History_14.pdf)
-29. [第十四回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8978835/Western_Art_History_14_sup.pdf)
+29.[第十四回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8978835/Western_Art_History_14_sup.pdf)
+
 
 
 
