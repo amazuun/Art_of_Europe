@@ -31,9 +31,13 @@
 31. [第十三回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8880538/Western_Art_History_13_sup.pdf)
 33. [第十四回：印象派.pdf](https://github.com/amazuun/Art_of_Europe/files/8986509/Western_Art_History_14.pdf)
 34. [第十四回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/8978835/Western_Art_History_14_sup.pdf)
-35.[第15回：ポスト印象主義と象徴主義と応用美術.pdf](https://github.com/amazuun/Art_of_Europe/files/9076600/Western_Art_History_15.pdf)
+35.[第15回：ポスト印象主義と象徴主義と応用美術.pdf]
+(https://github.com/amazuun/Art_of_Europe/files/9076600/Western_Art_History_15.pdf)
 [第15回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9076601/Western_Art_History_15_sup.pdf)
+[第16回：世紀末芸術とフォーヴィスムとキュビスム.pdf](https://github.com/amazuun/Art_of_Europe/files/9188249/Western_Art_History_16.pdf)
 
+
+[第16回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9188256/Western_Art_History_16_sup.pdf)
 
 
 
