@@ -37,7 +37,8 @@
 [第16回：世紀末芸術とフォーヴィスムとキュビスム.pdf](https://github.com/amazuun/Art_of_Europe/files/9188249/Western_Art_History_16.pdf)
 
 
-[第16回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9188256/Western_Art_History_16_sup.pdf)
+
+[第16回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9217070/Western_Art_History_16_sup.pdf)
 
 
 
