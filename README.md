@@ -39,8 +39,14 @@
 
 
 [第16回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9217070/Western_Art_History_16_sup.pdf)
+[第17回：シュルレアリスムなど.pdf](https://github.com/amazuun/Art_of_Europe/files/9372796/Western_Art_History_17.pdf)
+[第17回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9372797/Western_Art_History_17_sup.pdf)
+[第17回補足スライド.pdf](https://github.com/amazuun/Art_of_Europe/files/9372798/Western_Art_History_17_supslide.pdf)
 
 
+[第18回：抽象表現主義とポップアート.pdf](https://github.com/amazuun/Art_of_Europe/files/9372789/Western_Art_History_18.pdf)
+
+[第18回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9372794/Western_Art_History_18_sup.pdf)
 
 
 
