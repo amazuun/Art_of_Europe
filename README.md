@@ -48,8 +48,10 @@
 
 [第18回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9372794/Western_Art_History_18_sup.pdf)
 
+[第19回：コンセプチュアル・アートと新表現主義.pdf](https://github.com/amazuun/Art_of_Europe/files/9482681/Western_Art_History_19.pdf)
 
 
+[第19回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9482682/Western_Art_History_19_sup.pdf)
 
 
 
