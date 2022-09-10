@@ -54,6 +54,9 @@
 [第19回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9482682/Western_Art_History_19_sup.pdf)
 
 
+[第20回：現代における美術.pdf](https://github.com/amazuun/Art_of_Europe/files/9540431/Western_Art_History_20.pdf)
+
+[第20回補足資料.pdf](https://github.com/amazuun/Art_of_Europe/files/9540432/Western_Art_History_20_sup.pdf)
 
 
 
@@ -61,7 +64,6 @@
 
 
 
-
-10. 第n回：作成中<br><br>
+<br><br>
 [発表用Discordサーバー（途中参加もOKです！）](https://discord.gg/YtEBb8YUps)<br><br>
 [Docswell（スライド共有サイトです。スライドのみ読む場合はこちらがおすすめです。）](https://www.docswell.com/user/amazuun)
